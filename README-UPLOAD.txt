@@ -1,19 +1,18 @@
-GITHUB PAGES - UPLOAD INSTRUCTIONS
+GITHUB PAGES - BILINGUAL UPDATE INSTRUCTIONS
 
 Repository:
 https://github.com/Davood-Ak/Davood-Ak.github.io
 
-1. Extract the ZIP file on your computer.
-2. Open the extracted folder named davood-ak-github-pages.
-3. Upload index.html, .nojekyll, and the images folder to the repository root.
-4. Do not upload the ZIP file itself.
-5. Click Commit changes.
-6. Open repository Settings > Pages.
-7. Under Build and deployment choose:
-   Source: Deploy from a branch
-   Branch: main
-   Folder: / (root)
-8. Click Save and wait a few minutes.
+The images are already in your GitHub repository.
+
+1. Extract this ZIP file on your computer.
+2. Upload only the new index.html to the root of your repository.
+3. GitHub will show that index.html already exists. Confirm replacement.
+4. Click Commit changes.
+5. Wait a few minutes and refresh the website.
+
+The language switch FI | EN appears in the site header.
+Finnish is the default language.
 
 Your website address will be:
 https://davood-ak.github.io
